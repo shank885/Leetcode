@@ -16,7 +16,7 @@
 
 ### Problems
 
-#### [1. Arrays 101](Arrays_101/readme.md)
+#### [1. Arrays 101](Arrays%20_101/readme.md)
 #### [2. Linked List]()
 #### [3. Arrays and String]()
 #### [4. Hash Table]()
