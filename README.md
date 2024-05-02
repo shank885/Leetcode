@@ -1,20 +1,39 @@
-### SOLUTION TO THE LEETCODE PROBLEMS
+## SOLUTION TO THE LEETCODE PROBLEMS
 
 
 ---
-#### ROADMAP
+### ROADMAP
 
 
 ![](src/path.png)
 
 ---
-#### LEVELS
+### LEVELS
 
 ![](src/levels.png)
 
 ---
 
-#### Problems
+### Problems
+
+#### [1. Arrays 101](Arrays\ 101/readme.md)
+#### [2. Linked List]()
+#### [3. Arrays and String]()
+#### [4. Hash Table]()
+#### [5. Recursion]()
+#### [6. Queue & Stack]()
+#### [7. Heap]()
+#### [8. Binary Searcg]()
+#### [9. Binary Tree]()
+#### [10. Binary Search Tree]()
+#### [11. Trie]()
+#### [12. N-ary Tree]()
+#### [13. Recursion II]()
+#### [14. Dynamic Programming]()
+#### [15. Graph]()
+
+
+
 
 - [1. Two Sum]()
   - [C++]()
