@@ -1,6 +1,21 @@
 ### SOLUTION TO THE LEETCODE PROBLEMS
 
 
+---
+#### ROADMAP
+
+
+![](src/path.png)
+
+---
+#### LEVELS
+
+![](src/levels.png)
+
+---
+
+#### Problems
+
 - [1. Two Sum]()
   - [C++]()
   - [Python]()
@@ -46,3 +61,5 @@
 - [1672. Richest Customer Wealth]()
   - [C++]()
   - [Python]()
+
+
