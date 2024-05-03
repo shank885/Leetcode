@@ -62,6 +62,10 @@
   
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
   - [C++]()
+  - [Python]()  
+
+- [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+  - [C++]()
   - [Python]()
 
 </details>
