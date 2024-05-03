@@ -16,11 +16,13 @@
 
 ### Problems
 
-#### [1. Arrays 101](Arrays%20_101/readme.md)
+<details>
+  <summary>1. Arrays 101</summary>
 
-- [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
-  - [C++]()
-  - [Python]()
+-  [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+    - [C++]()
+   - [Python]()
+
 
 - [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
   - [C++]()
@@ -50,6 +52,11 @@
   - [C++]()
   - [Python]()
 
+</details>
+
+---
+
+#### [1. Arrays 101](Arrays%20_101/readme.md)
 #### [2. Linked List]()
 #### [3. Arrays and String]()
 #### [4. Hash Table]()
