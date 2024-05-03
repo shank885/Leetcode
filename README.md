@@ -51,6 +51,10 @@
 - [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
   - [C++]()
   - [Python]()
+  
+- [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+  - [C++]()
+  - [Python]()
 
 </details>
 
@@ -71,13 +75,6 @@
 #### [13. Recursion II]()
 #### [14. Dynamic Programming]()
 #### [15. Graph]()
-
-
-
-
-
-
-
 
 
 
