@@ -59,6 +59,10 @@
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
   - [C++]()
   - [Python]()
+  
+- [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
+  - [C++]()
+  - [Python]()
 
 </details>
 
