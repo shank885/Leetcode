@@ -23,7 +23,6 @@
     - [C++]()
    - [Python]()
 
-
 - [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
   - [C++]()
   - [Python]()
@@ -67,6 +66,12 @@
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
   - [C++]()
   - [Python]()
+
+- [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+  - [C++]()
+  - [Python]()
+
+
 
 </details>
 
