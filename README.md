@@ -83,6 +83,51 @@
 
 </details>
 
+<details>
+<summary>2. Linked List</summary>
+
+- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
 ---
 
 #### [1. Arrays 101](Arrays%20_101/readme.md)
