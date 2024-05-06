@@ -86,11 +86,11 @@
 <details>
 <summary>2. Linked List</summary>
 
-- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
   - [C++]()
   - [Python]()
 
-- []()
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
   - [C++]()
   - [Python]()
 
