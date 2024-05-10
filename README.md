@@ -110,11 +110,11 @@
   - [C++]()
   - [Python]()
 
-- []()
+- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
   - [C++]()
   - [Python]()
 
-- []()
+- [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
   - [C++]()
   - [Python]()
 
