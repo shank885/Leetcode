@@ -118,11 +118,11 @@
   - [C++]()
   - [Python]()
 
-- []()
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
   - [C++]()
   - [Python]()
 
-- []()
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
   - [C++]()
   - [Python]()
 
