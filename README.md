@@ -138,60 +138,136 @@
   - [C++]()
   - [Python]()
 
-- []()
-  - [C++]()
-  - [Python]()
+
+</details>
+
+<details>
+<summary>3. Arrays and String</summary>
 
 - []()
   - [C++]()
   - [Python]()
 
-- []()
-  - [C++]()
-  - [Python]()
+</details>
+
+<details>
+<summary>4. Hash Table</summary>
 
 - []()
   - [C++]()
   - [Python]()
 
-- []()
-  - [C++]()
-  - [Python]()
+</details>
+
+
+<details>
+<summary>5. Recursion</summary>
 
 - []()
   - [C++]()
   - [Python]()
 
+</details>
+
+
+<details>
+<summary>6. Queue & Stack</summary>
+
 - []()
   - [C++]()
   - [Python]()
 
+</details>
+
+
+<details>
+<summary>7. Heap</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+
+<details>
+<summary>8. Binary Search</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+
+<details>
+<summary>9. Binary Tree</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
 
 
 
+<details>
+<summary>10. Binary Search Tree</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
 
 
+<details>
+<summary>11. Trie</summary>
 
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+
+<details>
+<summary>12. N-ary Tree</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+<details>
+<summary>13. Recursion II</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+<details>
+<summary>14. Dynamic Programming</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+<details>
+<summary>15. Graph</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
 
 </details>
 
 ---
-
-#### [1. Arrays 101](Arrays%20_101/readme.md)
-#### [2. Linked List]()
-#### [3. Arrays and String]()
-#### [4. Hash Table]()
-#### [5. Recursion]()
-#### [6. Queue & Stack]()
-#### [7. Heap]()
-#### [8. Binary Searcg]()
-#### [9. Binary Tree]()
-#### [10. Binary Search Tree]()
-#### [11. Trie]()
-#### [12. N-ary Tree]()
-#### [13. Recursion II]()
-#### [14. Dynamic Programming]()
-#### [15. Graph]()
 
 
 
