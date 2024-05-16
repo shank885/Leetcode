@@ -144,11 +144,31 @@
 <details>
 <summary>3. Arrays and String</summary>
 
+- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
 - []()
   - [C++]()
   - [Python]()
 
 </details>
+
+
+
+
 
 <details>
 <summary>4. Hash Table</summary>
