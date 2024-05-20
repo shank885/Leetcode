@@ -37,48 +37,48 @@
   - [Python](Arrays%20101/1089.%20Duplicate%20Zeros/duplicate_zeros.cpp)
 
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/88.%20Merge%20Sorted%20Array/merge.cpp)
+  - [Python](Arrays%20101/88.%20Merge%20Sorted%20Array/merge.py)
 
 - [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/27.%20Remove%20Element/remove_element.cpp)
+  - [Python](Arrays%20101/27.%20Remove%20Element/remove_element.py)
 
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.cpp)
+  - [Python](Arrays%20101/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py)
 
 - [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/check.cpp)
+  - [Python](Arrays%20101/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/check.py)
   
 - [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/941.%20Valid%20Mountain%20Array/valid_mountain.cpp)
+  - [Python](Arrays%20101/941.%20Valid%20Mountain%20Array/valid_mountain.py)
 
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/replace_element.cpp)
+  - [Python](Arrays%20101/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/replace_element.py)
   
 - [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)
-  - [C++]()
-  - [Python]()  
+  - [C++](Arrays%20101/283.%20Move%20Zeros/move_zeros.cpp)
+  - [Python](Arrays%20101/283.%20Move%20Zeros/move_zeros.py)  
 
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/905.%20Sort%20Array%20By%20Parity/sortbyparity.cpp)
+  - [Python](Arrays%20101/905.%20Sort%20Array%20By%20Parity/sortbyparity.cpp)
 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/1051.%20Height%20Checker/checkheight.cpp)
+  - [Python](Arrays%20101/1051.%20Height%20Checker/checkheight.py)
 
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/414.%20Third%20Maximum%20Number/third_max.cpp)
+  - [Python](Arrays%20101/414.%20Third%20Maximum%20Number/third_max.py)
 
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20101/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/findall.cpp)
+  - [Python](Arrays%20101/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/findall.py)
 
 
 
