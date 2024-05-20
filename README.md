@@ -20,20 +20,20 @@
   <summary>1. Arrays 101</summary>
 
 -  [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
-    - [C++]()
-   - [Python]()
+  - [C++](Arrays%20101/485.%20Max%20Consecutive%20Ones/find_max.cpp)
+  - [Python](Arrays%20%20101/485.%20Max%20Consecutive%20Ones/find_max.py)
 
 - [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20%20101/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/find_numbers.cpp)
+  - [Python](Arrays%20%20101/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/find_numbers.py)
 
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20%20101/977.%20Squares%20of%20a%20Sorted%20Array/sorted_squared_array.cpp)
+  - [Python](Arrays%20%20101/977.%20Squares%20of%20a%20Sorted%20Array/sorted_squared_array.py)
 
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20%20101/1089.%20Duplicate%20Zeros/duplicate_zeros.cpp)
+  - [Python](Arrays%20%20101/1089.%20Duplicate%20Zeros/duplicate_zeros.cpp)
 
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
   - [C++]()
