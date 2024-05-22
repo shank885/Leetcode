@@ -88,56 +88,56 @@
 <summary>2. Linked List</summary>
 
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/707.%20Design%20Linked%20List/linked_list.cpp)
+  - [Python](Linked%20List/707.%20Design%20Linked%20List/linked_list.py)
 
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/141.%20Linked%20List%20Cycle/check_loop.cpp)
+  - [Python](Linked%20List/141.%20Linked%20List%20Cycle/check_loop.py)
 
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/142.%20Linked%20List%20Cycle%20II/get_cycle.cpp)
+  - [Python](Linked%20List/142.%20Linked%20List%20Cycle%20II/get_cycle.py)
 
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/160.%20Intersection%20of%20Two%20Linked%20List/chech_intersections.cpp)
+  - [Python](Linked%20List/160.%20Intersection%20of%20Two%20Linked%20List/chech_intersections.py)
 
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_element.cpp)
+  - [Python](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_element.py)
 
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/206.%20Reverse%20Linked%20List/reverse.cpp)
+  - [Python](Linked%20List/206.%20Reverse%20Linked%20List/reverse.py)
 
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/203.%20Remove%20Linked%20List%20Elements/remove_element.cpp)
+  - [Python](Linked%20List/203.%20Remove%20Linked%20List%20Elements/remove_element.py)
 
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/%20328.%20Odd%20Even%20Linked%20List/odd_even.cpp)
+  - [Python](Linked%20List/%20328.%20Odd%20Even%20Linked%20List/odd_even.py)
 
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists/merge.cpp)
+  - [Python](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists/merge.py)
 
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/2.%20Add%20Two%20Numbers/add.cpp)
+  - [Python](Linked%20List/2.%20Add%20Two%20Numbers/add.py)
 
 - [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/flatten.cpp)
+  - [Python](Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/flatten.py)
 
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer/copy_list.cpp)
+  - [Python](Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer/copy_list.py)
 
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Linked%20List/61.%20Rotate%20List/rotate.cpp)
+  - [Python](Linked%20List/61.%20Rotate%20List/rotate.py)
 
 
 </details>
