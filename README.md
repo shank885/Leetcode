@@ -146,22 +146,26 @@
 <summary>3. Arrays and String</summary>
 
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/724.%20Find%20Pivot%20Index/find_pivot_index.cpp)
+  - [Python](Arrays%20and%20String/724.%20Find%20Pivot%20Index/find_pivot_index.py)
 
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/find_max.cpp)
+  - [Python](Arrays%20and%20String/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/find_max.py)
 
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/66.%20Plus%20One/plus_one.cpp)
+  - [Python](Arrays%20and%20String/66.%20Plus%20One/plus_one.py)
 
 - [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/498.%20Diagonal%20Traverse/traverse.cpp)
+  - [Python](Arrays%20and%20String/498.%20Diagonal%20Traverse/traverse.py)
 
-- []()
+- [57. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+  - [C++](Arrays%20and%20String/54.%20Spira%20Matrix/spiral.cpp)
+  - [Python](Arrays%20and%20String/54.%20Spira%20Matrix/spiral.py)
+
+  - []()
   - [C++]()
   - [Python]()
 
