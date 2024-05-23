@@ -162,8 +162,8 @@
   - [Python](Arrays%20and%20String/498.%20Diagonal%20Traverse/traverse.py)
 
 - [57. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
-  - [C++](Arrays%20and%20String/54.%20Spira%20Matrix/spiral.cpp)
-  - [Python](Arrays%20and%20String/54.%20Spira%20Matrix/spiral.py)
+  - [C++](Arrays%20and%20String/54.%20Spiral%20Matrix/spiral.cpp)
+  - [Python](Arrays%20and%20String/54.%20Spiral%20Matrix/spiral.py)
 
   - []()
   - [C++]()
