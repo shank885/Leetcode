@@ -165,7 +165,23 @@
   - [C++](Arrays%20and%20String/54.%20Spiral%20Matrix/spiral.cpp)
   - [Python](Arrays%20and%20String/54.%20Spiral%20Matrix/spiral.py)
 
-  - []()
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+  - [C++]()
+  - [Python]()
+  
+- []()
+  - [C++]()
+  - [Python]()
+  
+- []()
+  - [C++]()
+  - [Python]()
+  
+- []()
+  - [C++]()
+  - [Python]()
+  
+- []()
   - [C++]()
   - [Python]()
 
