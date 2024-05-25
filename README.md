@@ -169,9 +169,9 @@
   - [C++](Arrays%20and%20String/118.%20Pascal's%20Triangle/pascal.cpp)
   - [Python](Arrays%20and%20String/118.%20Pascal's%20Triangle/pascal.py)
   
-- []()
-  - [C++]()
-  - [Python]()
+- [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+  - [C++](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
+  - [Python](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
   
 - []()
   - [C++]()
