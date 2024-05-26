@@ -171,11 +171,11 @@
   
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
   - [C++](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
-  - [Python](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
+  - [Python](Arrays%20and%20String/67.%20Add%20Binary/add.py)
   
 - [28. Find the Index of the First Occurence of a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/28.%20Find%20the%20Index%20of%20the%20First%20Occurence%20of%20a%20String/first_occurence.cpp)
+  - [Python](Arrays%20and%20String/28.%20Find%20the%20Index%20of%20the%20First%20Occurence%20of%20a%20String/first_occurence.py)
   
 - []()
   - [C++]()
