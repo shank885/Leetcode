@@ -179,11 +179,11 @@
   
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
   - [C++](Arrays%20and%20String/14.%20Longest%20Common%20Prefix/prefix.cpp)
-  - [Python](Arrays%20and%20String/14.%20Longest%20Common%20Prefix/prefix.cpp)
+  - [Python](Arrays%20and%20String/14.%20Longest%20Common%20Prefix/prefix.py)
   
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](https://github.com/shank885/Leetcode/blob/main/Arrays%20and%20String/344.%20Reverse%20String/reverse.cpp)
+  - [Python](https://github.com/shank885/Leetcode/blob/main/Arrays%20and%20String/344.%20Reverse%20String/reverse.py)
 
 - []()
   - [C++]()
