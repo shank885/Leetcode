@@ -177,7 +177,7 @@
   - [C++](Arrays%20and%20String/28.%20Find%20the%20Index%20of%20the%20First%20Occurence%20of%20a%20String/first_occurence.cpp)
   - [Python](Arrays%20and%20String/28.%20Find%20the%20Index%20of%20the%20First%20Occurence%20of%20a%20String/first_occurence.py)
   
-- []()
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
   - [C++]()
   - [Python]()
   
