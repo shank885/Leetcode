@@ -173,7 +173,7 @@
   - [C++](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
   - [Python](Arrays%20and%20String/67.%20Add%20Binary/add.cpp)
   
-- []()
+- [28. Find the Index of the First Occurence of a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
   - [C++]()
   - [Python]()
   
