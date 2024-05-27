@@ -185,9 +185,9 @@
   - [C++](https://github.com/shank885/Leetcode/blob/main/Arrays%20and%20String/344.%20Reverse%20String/reverse.cpp)
   - [Python](https://github.com/shank885/Leetcode/blob/main/Arrays%20and%20String/344.%20Reverse%20String/reverse.py)
 
-- []()
-  - [C++]()
-  - [Python]()  
+- [561. Array Partition](https://leetcode.com/problems/array-partition/description/)
+  - [C++](Arrays%20and%20String/561.%20Array%20Partition/minmax.cpp)
+  - [Python](Arrays%20and%20String/561.%20Array%20Partition/minmax.py)
 
 - []()
   - [C++]()
