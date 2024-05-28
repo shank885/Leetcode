@@ -190,12 +190,49 @@
   - [Python](Arrays%20and%20String/561.%20Array%20Partition/minmax.py)
 
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-  - [C++]()
-  - [Python]()  
+  - [C++](Arrays%20and%20String/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.cpp)
+  - [Python](Arrays%20and%20String/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
 
 - []()
   - [C++]()
   - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
 
 </details>
 
