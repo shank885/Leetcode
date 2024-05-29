@@ -193,7 +193,7 @@
   - [C++](Arrays%20and%20String/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.cpp)
   - [Python](Arrays%20and%20String/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/two_sum.py)
 
-- []()
+- [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
   - [C++]()
   - [Python]()
 
