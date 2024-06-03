@@ -202,8 +202,8 @@
   - [Python](Arrays%20and%20String/485.%20Max%20Consecutive%20Ones/max_consecutive.py)
 
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/209.%20Minimum%20Size%20Subarray%20Sum/min_subarray.cpp)
+  - [Python](Arrays%20and%20String/209.%20Minimum%20Size%20Subarray%20Sum/min_subarray.py)
 
 - []()
   - [C++]()
