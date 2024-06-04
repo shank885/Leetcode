@@ -206,8 +206,8 @@
   - [Python](Arrays%20and%20String/209.%20Minimum%20Size%20Subarray%20Sum/min_subarray.py)
 
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/189.%20Rotate%20Array/rotate_right.cpp)
+  - [Python](Arrays%20and%20String/189.%20Rotate%20Array/rotate_right.py)
 
 - []()
   - [C++]()
