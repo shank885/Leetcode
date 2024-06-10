@@ -210,8 +210,8 @@
   - [Python](Arrays%20and%20String/189.%20Rotate%20Array/rotate_right.py)
 
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/119.%20Pascal's%20Triangle%20II/pascal.cpp)
+  - [Python](Arrays%20and%20String/119.%20Pascal's%20Triangle%20II/pascal.py)
 
 - []()
   - [C++]()
