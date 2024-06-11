@@ -214,8 +214,8 @@
   - [Python](Arrays%20and%20String/119.%20Pascal's%20Triangle%20II/pascal.py)
 
 - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/151.%20Reverse%20Words%20in%20a%20String/reverse.cpp)
+  - [Python](Arrays%20and%20String/151.%20Reverse%20Words%20in%20a%20String/reverse.py)
 
 - []()
   - [C++]()
