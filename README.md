@@ -213,7 +213,7 @@
   - [C++](Arrays%20and%20String/119.%20Pascal's%20Triangle%20II/pascal.cpp)
   - [Python](Arrays%20and%20String/119.%20Pascal's%20Triangle%20II/pascal.py)
 
-- []()
+- [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
   - [C++]()
   - [Python]()
 
