@@ -222,8 +222,8 @@
   - [Python](Arrays%20and%20String/557.%20Reverse%20Words%20in%20a%20String%20III/reverse.py)
 
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.cpp)
+  - [Python](Arrays%20and%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py)
 
 - []()
   - [C++]()
