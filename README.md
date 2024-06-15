@@ -225,18 +225,11 @@
   - [C++](Arrays%20and%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.cpp)
   - [Python](Arrays%20and%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py)
 
-- []()
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
   - [C++]()
   - [Python]()
-
-- []()
-  - [C++]()
-  - [Python]()
-
 
 </details>
-
-
 
 
 
@@ -246,6 +239,40 @@
 - []()
   - [C++]()
   - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+
 
 </details>
 
