@@ -226,8 +226,8 @@
   - [Python](Arrays%20and%20String/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_duplicates.py)
 
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Arrays%20and%20String/283.%20Move%20Zeroes/move_zeros.cpp)
+  - [Python](Arrays%20and%20String/283.%20Move%20Zeroes/move_zeros.py)
 
 </details>
 
