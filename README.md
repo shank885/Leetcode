@@ -236,7 +236,7 @@
 <details>
 <summary>4. Hash Table</summary>
 
-- []()
+- [705. Define HashSet](https://leetcode.com/problems/design-hashset/description/)
   - [C++]()
   - [Python]()
 
