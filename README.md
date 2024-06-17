@@ -237,8 +237,8 @@
 <summary>4. Hash Table</summary>
 
 - [705. Define HashSet](https://leetcode.com/problems/design-hashset/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/705.%20Define%20HashSet/hash_set.cpp)
+  - [Python](Hash%20Table/705.%20Define%20HashSet/hash_set.py)
 
 - []()
   - [C++]()
