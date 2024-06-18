@@ -240,7 +240,7 @@
   - [C++](Hash%20Table/705.%20Define%20HashSet/hash_set.cpp)
   - [Python](Hash%20Table/705.%20Define%20HashSet/hash_set.py)
 
-- []()
+- [706. Define HashMap](https://leetcode.com/problems/design-hashmap/description/)
   - [C++]()
   - [Python]()
 
