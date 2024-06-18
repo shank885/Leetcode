@@ -241,8 +241,8 @@
   - [Python](Hash%20Table/705.%20Define%20HashSet/hash_set.py)
 
 - [706. Define HashMap](https://leetcode.com/problems/design-hashmap/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/706.%20Define%20HashMap/hashmap.cpp)
+  - [Python](Hash%20Table/706.%20Define%20HashMap/hashmap.py)
 
 - []()
   - [C++]()
