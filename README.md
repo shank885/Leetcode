@@ -244,7 +244,7 @@
   - [C++](Hash%20Table/706.%20Define%20HashMap/hashmap.cpp)
   - [Python](Hash%20Table/706.%20Define%20HashMap/hashmap.py)
 
-- []()
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
   - [C++]()
   - [Python]()
 
