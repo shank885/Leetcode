@@ -248,7 +248,7 @@
   - [C++](Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.cpp)
   - [Python](Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.py)
 
-- []()
+- [136. Single Number](https://leetcode.com/problems/single-number/)
   - [C++]()
   - [Python]()
 
