@@ -253,8 +253,8 @@
   - [Python](Hash%20Table/136.%20Single%20Number/single_number.py)
 
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
+  - [Python](Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
 
 - []()
   - [C++]()
