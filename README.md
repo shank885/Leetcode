@@ -260,7 +260,7 @@
   - [C++](Hash%20Table/202.%20Happy%20Number/happy.cpp)
   - [Python](Hash%20Table/202.%20Happy%20Number/happy.py)
 
-- []()
+- [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
   - [C++]()
   - [Python]()
 
