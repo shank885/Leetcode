@@ -261,8 +261,8 @@
   - [Python](Hash%20Table/202.%20Happy%20Number/happy.py)
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/1.%20Two%20Sum/two_sum.cpp)
+  - [Python](Hash%20Table/1.%20Two%20Sum/two_sum.py)
 
 - []()
   - [C++]()
