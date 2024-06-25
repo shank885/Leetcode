@@ -288,8 +288,8 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [Python](Hash%20Table/1.%20Two%20Sum/two_sum.py)
 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.cpp)
+  - [Python](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.py)
 
 - []()
   - [C++]()
