@@ -136,7 +136,30 @@
   - [Python](Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer/copy_list.py)
 
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
-  - [C++](Linked%20List/61.%20Rotate%20List/rotate.cpp)
+  - [C++](Linked%20Li
+
+</details>
+
+
+<details>
+<summary>5. Recursion</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+
+<details>
+<summary>6. Queue & Stack</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+st/61.%20Rotate%20List/rotate.cpp)
   - [Python](Linked%20List/61.%20Rotate%20List/rotate.py)
 
 
@@ -264,7 +287,7 @@
   - [C++](Hash%20Table/1.%20Two%20Sum/two_sum.cpp)
   - [Python](Hash%20Table/1.%20Two%20Sum/two_sum.py)
 
-- []()
+- [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
   - [C++]()
   - [Python]()
 
@@ -272,29 +295,6 @@
   - [C++]()
   - [Python]()
 
-
-
-</details>
-
-
-<details>
-<summary>5. Recursion</summary>
-
-- []()
-  - [C++]()
-  - [Python]()
-
-</details>
-
-
-<details>
-<summary>6. Queue & Stack</summary>
-
-- []()
-  - [C++]()
-  - [Python]()
-
-</details>
 
 
 <details>
