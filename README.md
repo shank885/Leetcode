@@ -291,11 +291,18 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [C++](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.cpp)
   - [Python](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.py)
 
-- []()
+- [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
   - [C++]()
   - [Python]()
 
 
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
 
 <details>
 <summary>7. Heap</summary>
