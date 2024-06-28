@@ -296,8 +296,8 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [Python](Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/min_index_basic.py)
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.cpp)
+  - [Python](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.py)
 
 - []()
   - [C++]()
