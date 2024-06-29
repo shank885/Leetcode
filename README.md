@@ -300,8 +300,8 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [Python](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.py)
 
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.cpp)
+  - [Python](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.py)
 
 <details>
 <summary>7. Heap</summary>
