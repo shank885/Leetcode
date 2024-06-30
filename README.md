@@ -303,6 +303,18 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [C++](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.cpp)
   - [Python](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.py)
 
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
 <details>
 <summary>7. Heap</summary>
 
