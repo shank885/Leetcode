@@ -80,8 +80,6 @@
   - [C++](Arrays%20101/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/findall.cpp)
   - [Python](Arrays%20101/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/findall.py)
 
-
-
 </details>
 
 <details>
@@ -136,34 +134,12 @@
   - [Python](Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer/copy_list.py)
 
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)
-  - [C++](Linked%20Li
-
-</details>
-
-
-<details>
-<summary>5. Recursion</summary>
-
-- []()
-  - [C++]()
-  - [Python]()
-
-</details>
-
-
-<details>
-<summary>6. Queue & Stack</summary>
-
-- []()
-  - [C++]()
-  - [Python]()
-
-</details>
-st/61.%20Rotate%20List/rotate.cpp)
+  - [C++](Linked%20List/61.%20Rotate%20List/rotate.cpp)
   - [Python](Linked%20List/61.%20Rotate%20List/rotate.py)
 
-
 </details>
+
+
 
 <details>
 <summary>3. Arrays and String</summary>
@@ -314,6 +290,28 @@ st/61.%20Rotate%20List/rotate.cpp)
 - []()
   - [C++]()
   - [Python]()
+
+</details>
+
+
+<details>
+<summary>5. Recursion</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
+<details>
+<summary>6. Queue & Stack</summary>
+
+- []()
+  - [C++]()
+  - [Python]()
+
+</details>
+
 
 <details>
 <summary>7. Heap</summary>
