@@ -304,8 +304,8 @@ st/61.%20Rotate%20List/rotate.cpp)
   - [Python](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.py)
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.cpp)
+  - [Python](Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.py)
 
 - []()
   - [C++]()
