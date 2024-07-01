@@ -284,8 +284,8 @@
   - [Python](Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.py)
 
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/49.%20Group%20Anagrams/group.cpp)
+  - [Python](Hash%20Table/49.%20Group%20Anagrams/group.py)
 
 - []()
   - [C++]()
