@@ -296,8 +296,8 @@
   - [Python](TBD)
 
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.cpp)
+  - [Python](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.py)
 
 - []()
   - [C++]()
