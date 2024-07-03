@@ -291,11 +291,11 @@
   - [C++](Hash%20Table/36.%20Valid%20Sudoku/valid.cpp)
   - [Python](Hash%20Table/36.%20Valid%20Sudoku/valid.py)
 
-- []()
-  - [C++]()
-  - [Python]()
+- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
+  - [C++](TBD)
+  - [Python](TBD)
 
-- []()
+- [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
   - [C++]()
   - [Python]()
 
