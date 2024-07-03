@@ -287,6 +287,26 @@
   - [C++](Hash%20Table/49.%20Group%20Anagrams/group.cpp)
   - [Python](Hash%20Table/49.%20Group%20Anagrams/group.py)
 
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+  - [C++](Hash%20Table/36.%20Valid%20Sudoku/valid.cpp)
+  - [Python](Hash%20Table/36.%20Valid%20Sudoku/valid.py)
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
 - []()
   - [C++]()
   - [Python]()
