@@ -299,7 +299,7 @@
   - [C++](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.cpp)
   - [Python](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.py)
 
-- []()
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
   - [C++]()
   - [Python]()
 
