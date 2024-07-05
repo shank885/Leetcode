@@ -300,8 +300,8 @@
   - [Python](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.py)
 
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.cpp)
+  - [Python](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py)
 
 - []()
   - [C++]()
