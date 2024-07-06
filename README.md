@@ -304,8 +304,8 @@
   - [Python](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py)
 
 - [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/454.%204Sum%20II/4sum.cpp)
+  - [Python](Hash%20Table/454.%204Sum%20II/4sum.py)
 
 - []()
   - [C++]()
