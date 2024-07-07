@@ -308,8 +308,29 @@
   - [Python](Hash%20Table/454.%204Sum%20II/4sum.py)
 
 - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+  - [C++](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.cpp)
+  - [Python](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.py)
+
+- []()
   - [C++]()
   - [Python]()
+
+
+- []()
+  - [C++]()
+  - [Python]()
+
+
+- []()
+  - [C++]()
+  - [Python]()
+
+
+- []()
+  - [C++]()
+  - [Python]()
+
+
 
 </details>
 
