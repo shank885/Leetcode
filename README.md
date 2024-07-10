@@ -312,8 +312,8 @@
   - [Python](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.py)
 
 - [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.cpp)
+  - [Python](Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.py)
 
 
 - []()
