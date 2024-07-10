@@ -311,7 +311,7 @@
   - [C++](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.cpp)
   - [Python](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.py)
 
-- []()
+- [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
   - [C++]()
   - [Python]()
 
