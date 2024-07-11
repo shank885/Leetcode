@@ -323,8 +323,8 @@
 <summary>5. Recursion I</summary>
 
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](5.%20Recursion%20I/344.%20Reverse%20String/reverse.cpp)
+  - [Python](5.%20Recursion%20I/344.%20Reverse%20String/reverse.py)
 
 
 - []()
