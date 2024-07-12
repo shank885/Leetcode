@@ -328,8 +328,8 @@
 
 
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](5.%20Recursion%20I/24.%20Swap%20Nodes%20in%20Pairs/swap.cpp)
+  - [Python](5.%20Recursion%20I/24.%20Swap%20Nodes%20in%20Pairs/swap.py)
 
 
 - []()
