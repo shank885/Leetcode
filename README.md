@@ -332,9 +332,9 @@
   - [Python](5.%20Recursion%20I/24.%20Swap%20Nodes%20in%20Pairs/swap.py)
 
 
-- []()
-  - [C++]()
-  - [Python]()
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [C++](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.cpp)
+  - [Python](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.py)
 
 
 - []()
