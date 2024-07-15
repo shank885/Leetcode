@@ -14,25 +14,19 @@ class Solution
 public:
     TreeNode *searchBST(TreeNode *root, int val)
     {
-        TreeNode *currRoot = root;
 
-        if (root == nullptr)
+        if (root == nullptr || root->val == val)
         {
-            return nullptr;
+            return root;
         }
 
-        if (val == currRoot->val)
+        if (val < root->val)
         {
-            return currRoot;
-        }
-        else if (val < currRoot->val)
-        {
-            currRoot = searchBST(root->left, val);
+            return searchBST(root->left, val);
         }
         else
         {
-            currRoot = searchBST(root->right, val);
+            return searchBST(root->right, val);
         }
-        return currRoot;
     }
 };
