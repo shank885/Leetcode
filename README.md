@@ -336,6 +336,21 @@
   - [C++](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.cpp)
   - [Python](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.py)
 
+- [700 Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+  - [C++](5.%20Recursion%20I/700%20Search%20in%20a%20Binary%20Search%20Tree/search.cpp)
+  - [Python](5.%20Recursion%20I/700%20Search%20in%20a%20Binary%20Search%20Tree/search.py)
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
+
+- []()
+  - [C++]()
+  - [Python]()
 
 - []()
   - [C++]()
