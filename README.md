@@ -345,8 +345,8 @@
   - [Python](5.%20Recursion%20I/119.%20Pascal's%20Triangle%20II/triangle.py)
 
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](5.%20Recursion%20I/509.%20Fibonacci%20Number/fibonacci.cpp)
+  - [Python](5.%20Recursion%20I/509.%20Fibonacci%20Number/fibonacci.py)
 
 - []()
   - [C++]()
