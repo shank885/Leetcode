@@ -349,8 +349,8 @@
   - [Python](5.%20Recursion%20I/509.%20Fibonacci%20Number/fibonacci.py)
 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.cpp)
+  - [Python](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.py)
 
 - []()
   - [C++]()
