@@ -332,10 +332,25 @@
   - [Python](5.%20Recursion%20I/24.%20Swap%20Nodes%20in%20Pairs/swap.py)
 
 
-- []()
-  - [C++]()
-  - [Python]()
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - [C++](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.cpp)
+  - [Python](5.%20Recursion%20I/206.%20Reverse%20Linked%20List/reverse_list.py)
 
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+  - [C++](5.%20Recursion%20I/700.%20Search%20in%20a%20Binary%20Search%20Tree/search.cpp)
+  - [Python](5.%20Recursion%20I/700.%20Search%20in%20a%20Binary%20Search%20Tree/search.py)
+
+- [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
+  - [C++](5.%20Recursion%20I/119.%20Pascal's%20Triangle%20II/triangle.cpp)
+  - [Python](5.%20Recursion%20I/119.%20Pascal's%20Triangle%20II/triangle.py)
+
+- [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+  - [C++](5.%20Recursion%20I/509.%20Fibonacci%20Number/fibonacci.cpp)
+  - [Python](5.%20Recursion%20I/509.%20Fibonacci%20Number/fibonacci.py)
+
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+  - [C++](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.cpp)
+  - [Python](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.py)
 
 - []()
   - [C++]()
