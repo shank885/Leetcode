@@ -352,10 +352,9 @@
   - [C++](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.cpp)
   - [Python](5.%20Recursion%20I/70.%20Climbing%20Stairs/climb_stairs.py)
 
-
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](5.%20Recursion%20I/104.%20Maximum%20Depth%20of%20Binary%20Tree/max_depth.cpp)
+  - [Python](5.%20Recursion%20I/104.%20Maximum%20Depth%20of%20Binary%20Tree/max_depth.py)
 
 - []()
   - [C++]()
