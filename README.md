@@ -356,7 +356,7 @@
   - [C++](5.%20Recursion%20I/104.%20Maximum%20Depth%20of%20Binary%20Tree/max_depth.cpp)
   - [Python](5.%20Recursion%20I/104.%20Maximum%20Depth%20of%20Binary%20Tree/max_depth.py)
 
-- []()
+- [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
   - [C++]()
   - [Python]()
 
