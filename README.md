@@ -360,8 +360,7 @@
   - [C++](5.%20Recursion%20I/50.%20Pow(x%2C%20n)/pow.cpp)
   - [Python](5.%20Recursion%20I/50.%20Pow(x%2C%20n)/pow.py)
 
-
-- []()
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
   - [C++]()
   - [Python]()
 
