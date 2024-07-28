@@ -364,9 +364,9 @@
   - [C++](5.%20Recursion%20I/21.%20Merge%20Two%20Sorted%20Lists/merge_list.cpp)
   - [Python](5.%20Recursion%20I/21.%20Merge%20Two%20Sorted%20Lists/merge_list.py)
 
-- []()
-  - [C++]()
-  - [Python]()
+- [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
+  - [C++](5.%20Recursion%20I/779.%20K-th%20Symbol%20in%20Grammar/kth_symbol.cpp)
+  - [Python](5.%20Recursion%20I/779.%20K-th%20Symbol%20in%20Grammar/kth_symbol.py)
 
 - []()
   - [C++]()
