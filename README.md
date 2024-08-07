@@ -378,8 +378,8 @@
 <summary>6. Queue & Stack</summary>
 
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](6.%20Queue%20%26%20Stack/622.%20Design%20Circular%20Queue/circular_queue.cpp)
+  - [Python](6.%20Queue%20%26%20Stack/622.%20Design%20Circular%20Queue/circular_queue.py)
 
 - []()
   - [C++]()
