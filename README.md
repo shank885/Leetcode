@@ -377,7 +377,7 @@
 <details>
 <summary>6. Queue & Stack</summary>
 
-- []()
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
   - [C++]()
   - [Python]()
 
