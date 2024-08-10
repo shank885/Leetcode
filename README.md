@@ -382,8 +382,8 @@
   - [Python](6.%20Queue%20%26%20Stack/622.%20Design%20Circular%20Queue/circular_queue.py)
 
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](6.%20Queue%20%26%20Stack/200.%20Number%20of%20Islands/num_islands.cpp)
+  - [Python](6.%20Queue%20%26%20Stack/200.%20Number%20of%20Islands/num_islands.py)
 
 
 - []()
