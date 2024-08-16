@@ -369,8 +369,8 @@
   - [Python](5.%20Recursion%20I/779.%20K-th%20Symbol%20in%20Grammar/kth_symbol.py)
 
 - [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
-  - [C++]()
-  - [Python]()
+  - [C++](6.%20Queue%20%26%20Stack/752.%20Open%20the%20Lock/open_lock.cpp)
+  - [Python](6.%20Queue%20%26%20Stack/752.%20Open%20the%20Lock/open_lock.py)
 
 </details>
 
