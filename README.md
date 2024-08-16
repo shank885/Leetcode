@@ -385,8 +385,7 @@
   - [C++](6.%20Queue%20%26%20Stack/200.%20Number%20of%20Islands/num_islands.cpp)
   - [Python](6.%20Queue%20%26%20Stack/200.%20Number%20of%20Islands/num_islands.py)
 
-
-- []()
+- [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
   - [C++]()
   - [Python]()
 
