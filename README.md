@@ -390,14 +390,12 @@
   - [Python]()
 
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
-  - [C++]()
-  - [Python]()
-
+  - [C++](6.%20Queue%20%26%20Stack/279.%20Perfect%20Squares/squares.cpp)
+  - [Python](6.%20Queue%20%26%20Stack/279.%20Perfect%20Squares/squares.py)
 
 - []()
   - [C++]()
   - [Python]()
-
 
 - []()
   - [C++]()
