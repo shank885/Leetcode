@@ -230,90 +230,88 @@
 
 </details>
 
-
-
 <details>
 <summary>4. Hash Table</summary>
 
 - [705. Define HashSet](https://leetcode.com/problems/design-hashset/description/)
-  - [C++](Hash%20Table/705.%20Define%20HashSet/hash_set.cpp)
-  - [Python](Hash%20Table/705.%20Define%20HashSet/hash_set.py)
+  - [C++](4.%20Hash%20Table/705.%20Define%20HashSet/hash_set.cpp)
+  - [Python](4.%20Hash%20Table/705.%20Define%20HashSet/hash_set.py)
 
 - [706. Define HashMap](https://leetcode.com/problems/design-hashmap/description/)
-  - [C++](Hash%20Table/706.%20Define%20HashMap/hashmap.cpp)
-  - [Python](Hash%20Table/706.%20Define%20HashMap/hashmap.py)
+  - [C++](4.%20Hash%20Table/706.%20Define%20HashMap/hashmap.cpp)
+  - [Python](4.%20Hash%20Table/706.%20Define%20HashMap/hashmap.py)
 
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-  - [C++](Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.cpp)
-  - [Python](Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.py)
+  - [C++](4.%20Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.cpp)
+  - [Python](4.%20Hash%20Table/217.%20Contains%20Duplicate/has_duplicate.py)
 
 - [136. Single Number](https://leetcode.com/problems/single-number/)
-  - [C++](Hash%20Table/136.%20Single%20Number/single_number.cpp)
-  - [Python](Hash%20Table/136.%20Single%20Number/single_number.py)
+  - [C++](4.%20Hash%20Table/136.%20Single%20Number/single_number.cpp)
+  - [Python](4.%20Hash%20Table/136.%20Single%20Number/single_number.py)
 
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
-  - [C++](Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
-  - [Python](Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
+  - [C++](4.%20Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
+  - [Python](4.%20Hash%20Table/349.%20Intersection%20of%20Two%20Arrays/intersection.cpp)
 
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
-  - [C++](Hash%20Table/202.%20Happy%20Number/happy.cpp)
-  - [Python](Hash%20Table/202.%20Happy%20Number/happy.py)
+  - [C++](4.%20Hash%20Table/202.%20Happy%20Number/happy.cpp)
+  - [Python](4.%20Hash%20Table/202.%20Happy%20Number/happy.py)
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
-  - [C++](Hash%20Table/1.%20Two%20Sum/two_sum.cpp)
-  - [Python](Hash%20Table/1.%20Two%20Sum/two_sum.py)
+  - [C++](4.%20Hash%20Table/1.%20Two%20Sum/two_sum.cpp)
+  - [Python](4.%20Hash%20Table/1.%20Two%20Sum/two_sum.py)
 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-  - [C++](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.cpp)
-  - [Python](Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.py)
+  - [C++](4.%20Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.cpp)
+  - [Python](4.%20Hash%20Table/205.%20Isomorphic%20Strings/isomorphic.py)
 
 - [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
-  - [C++](Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/min_index_basic.cpp)
-  - [Python](Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/min_index_basic.py)
+  - [C++](4.%20Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/min_index_basic.cpp)
+  - [Python](4.%20Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/min_index_basic.py)
 
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
-  - [C++](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.cpp)
-  - [Python](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.py)
+  - [C++](4.%20Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.cpp)
+  - [Python](4.%20Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String/unique.py)
 
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
-  - [C++](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.cpp)
-  - [Python](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.py)
+  - [C++](4.%20Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.cpp)
+  - [Python](4.%20Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II/intersection.py)
 
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
-  - [C++](Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.cpp)
-  - [Python](Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.py)
+  - [C++](4.%20Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.cpp)
+  - [Python](4.%20Hash%20Table/219.%20Contains%20Duplicate%20II/duplicate.py)
 
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
-  - [C++](Hash%20Table/49.%20Group%20Anagrams/group.cpp)
-  - [Python](Hash%20Table/49.%20Group%20Anagrams/group.py)
+  - [C++](4.%20Hash%20Table/49.%20Group%20Anagrams/group.cpp)
+  - [Python](4.%20Hash%20Table/49.%20Group%20Anagrams/group.py)
 
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
-  - [C++](Hash%20Table/36.%20Valid%20Sudoku/valid.cpp)
-  - [Python](Hash%20Table/36.%20Valid%20Sudoku/valid.py)
+  - [C++](4.%20Hash%20Table/36.%20Valid%20Sudoku/valid.cpp)
+  - [Python](4.%20Hash%20Table/36.%20Valid%20Sudoku/valid.py)
 
 - [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
   - [C++](TBD)
   - [Python](TBD)
 
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
-  - [C++](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.cpp)
-  - [Python](Hash%20Table/771.%20Jewels%20and%20Stones/jewels.py)
+  - [C++](4.%20Hash%20Table/771.%20Jewels%20and%20Stones/jewels.cpp)
+  - [Python](4.%20Hash%20Table/771.%20Jewels%20and%20Stones/jewels.py)
 
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-  - [C++](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.cpp)
-  - [Python](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py)
+  - [C++](4.%20Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.cpp)
+  - [Python](4.%20Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py)
 
 - [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)
-  - [C++](Hash%20Table/454.%204Sum%20II/4sum.cpp)
-  - [Python](Hash%20Table/454.%204Sum%20II/4sum.py)
+  - [C++](4.%20Hash%20Table/454.%204Sum%20II/4sum.cpp)
+  - [Python](4.%20Hash%20Table/454.%204Sum%20II/4sum.py)
 
 - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-  - [C++](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.cpp)
-  - [Python](Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.py)
+  - [C++](4.%20Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.cpp)
+  - [Python](4.%20Hash%20Table/347.%20Top%20K%20Frequent%20Elements/top_k.py)
 
 - [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
-  - [C++](Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.cpp)
-  - [Python](Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.py)
+  - [C++](4.%20Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.cpp)
+  - [Python](4.%20Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1)/main.py)
 
 
 </details>
